@@ -1,0 +1,14 @@
+/*
+            DEFAULT VALUES
+
+FONT FAMILY             : ROBOTO CONDENSED
+GREENISH BLUE COLOR     : #34c6d3
+STEEL GRAY              : #41464b
+BLUE BAYOUX             : #64707b
+WHITE                   : #fff
+BLACK                   : #000
+*/
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
